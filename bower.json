@@ -1,0 +1,18 @@
+{
+  "name": "lazy-ng-if",
+  "main": "lazy-ng-if.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ravello/lazy-ng-if",
+  "authors": [
+    "Iftach Bar <iftachbar@gmail.com>"
+  ],
+  "description": "ng-if without compiling the dom tree in advance",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
