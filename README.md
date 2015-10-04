@@ -14,3 +14,10 @@ Usage:
 
 This pacakge is availble as a bower library:
 http://libraries.io/bower/lazy-ng-if
+
+
+**UPDATE:**
+This lazy-behaviour will be implemented as part of Angular 1.5.
+See this commit: https://github.com/angular/angular.js/commit/652b83eb226131d131a44453520a569202aa4aac
+
+Thanks to [@abyx](https://github.com/abyx) for pointing this out.
